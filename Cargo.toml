@@ -1,0 +1,12 @@
+[package]
+name = "pretty_balanced"
+version = "0.1.0"
+authors = ["Klas Segeljakt <klasseg@kth.se>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/segeljakt/pretty_balanced"
+homepage = "https://github.com/segeljakt/pretty_balanced"
+description = "A library for displaying code in human-readable format."
+
+[dependencies]
